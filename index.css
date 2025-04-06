@@ -1,0 +1,41 @@
+body{
+    background-color: black
+}
+.post{
+    background-color:white;
+    width:400px;
+    height: auto;
+    margin-left:auto;
+    margin-right:auto
+}
+.post-header{
+    padding:10px;
+    display:flex
+}
+.post-header p{
+    margin:0px
+}
+.titles{
+    margin-left: 5px;
+    margin-right: auto;
+}
+.fa-html5,.fa-ellipsis-vertical{
+    margin-top:17px
+}
+
+.post-img .resized-image{
+ width:100%
+}
+
+.post-footer{
+    padding:10px
+}
+.post-icons{display:flex}
+.fa-comment{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.fa-bookmark{
+    margin-left:auto
+}
